@@ -3,8 +3,24 @@
 
 This is a powerful tool that can "spam" your desired amount of messages to your desired platform at your desired time
 # Installation:
->> For Windows
-[+]Requirements
-✅Install git from its official source
+Open termux and type the commands below
+
+```
+
+apt update
+
+apt upgrade
+
+apt install git
+
+apt install python3
+
+apt install pip
+
+git clone https://github.com/DrEerie/EerieSpammer
+
+cd EerieSpammer
+
+```
 
 
