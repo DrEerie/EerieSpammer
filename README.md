@@ -3,7 +3,7 @@
 
 This is a powerful tool that can "spam" your desired amount of messages to your desired platform at your desired time
 # Installation:
-Open termux and type the commands below
+(1) General Guide for Linux distros (For Android systems as well)
 
 ```
 
@@ -20,6 +20,8 @@ apt install pip
 git clone https://github.com/DrEerie/EerieSpammer
 
 cd EerieSpammer
+
+pip instal -r requirements.txt
 
 ```
 
