@@ -33,6 +33,7 @@ Congratulations you have successfully installed the now its time to use it.
 Run the following command to use the tool
 
 ```
+
  python3 Spammer.py
  
 ```
@@ -40,3 +41,7 @@ Run the following command to use the tool
  
  # Don't forget to star the repo and follow the creator.
 
+# Usage tutorial on youtube:
+ 
+ [Click here to visit youtube tutorial](https://youtu.be/5-7IdMy-J_0)
+Please like the video and suscribe as to encourage as .
