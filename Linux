@@ -1,0 +1,16 @@
+
+apt update
+
+apt upgrade
+
+apt install git
+
+apt install python3
+
+apt install pip
+
+git clone https://github.com/DrEerie/EerieSpammer
+
+cd EerieSpammer
+
+pip instal -r requirements.txt
