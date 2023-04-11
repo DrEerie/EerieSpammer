@@ -23,7 +23,7 @@ git clone https://github.com/DrEerie/EerieSpammer
 
 cd EerieSpammer
 
-pip instal -r requirements.txt
+pip install -r requirements.txt
 
 ```
 Congratulations you have successfully installed the now its time to use it.
