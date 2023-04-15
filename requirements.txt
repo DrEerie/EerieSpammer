@@ -1,4 +1,4 @@
 pyautogui==0.9.53
 colorama==0.4.6
 tqdm==4.65.0
-packaging==23.1
+
