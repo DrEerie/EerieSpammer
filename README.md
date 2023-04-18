@@ -5,7 +5,7 @@
 # EerieSpammer
 This is a powerful tool that can "spam" your desired amount of messages to your desired platform at your desired time
 # Installation:
-(1) General Guide for Linux distros (Desktop supported!!)(Use pyroid3 for android usage.)
+(1) General Guide for Linux distros (Desktop supported only sorry for android users)
 
 ```
 
