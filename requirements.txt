@@ -1,4 +1,6 @@
 pyautogui
 colorama
+termcolor
 tqdm
+sys
 
