@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+
+
 import pyautogui as eerie
 import time as t
 from colorama import *
