@@ -44,9 +44,10 @@ Congratulations you have successfully installed the now its time to use it.
 
 # Usage
  
-Run the following command to use the tool
+ You can nevigate to EerieSpammeer and use the tool via following commands.
 
 ```
+cd EerieSpammer
 
  python3 Spammer.py
  
