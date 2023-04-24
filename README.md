@@ -57,8 +57,9 @@ cd EerieSpammer
  # Don't forget to star the repo and follow the creator.
 
 # Usage tutorial on youtube:
- Note that the tutorial in the following video is recorded earlier . Now EerieSpammer have gone through some UI changes as well but author don't have time to record a new turorial.
+ Note that the tutorial in the following video is recorded earlier . Now EerieSpammer has gone through some UI changes as well but author don't have time to record a new turorial.hope so you won't find so much difference in it.
  [Click here to visit youtube tutorial](https://youtu.be/5-7IdMy-J_0)
+ 
 Please like the video and suscribe as to encourage as .
 
 # Linux View
