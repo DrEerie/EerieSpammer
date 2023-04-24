@@ -4,8 +4,8 @@ This is a powerful tool that can "spam" your desired amount of messages at your 
 
 <b><i>[+]REQUIREMENTS</b></i>
 1. Desktop or Laptop. (Android not supported.)
-2. 1GB internet.
-3. No computer knowledge requried.
+2. 500 MB internet.
+3. Basic computer knowledge requried.
 
 <b><i>[+]COMMANDS</b></i>
 1. For Linux users.
