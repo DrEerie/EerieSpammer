@@ -1,14 +1,14 @@
 # EerieSpammer
 This is a powerful tool that can "spam" your desired amount of messages at your desired time with desired time-gap.
-## Installation:
+# Installation:
 
-<b><i>[+]REQUIREMENTS</b></i>
+### [+]REQUIREMENTS
 1. Desktop or Laptop. (Android not supported.)
 2. 500 MB internet.
 3. Basic computer knowledge requried.
 
-<b><i>[+]COMMANDS</b></i>
-1. For Linux users.
+### [+]COMMANDS</b></i>
+#### 1. For Linux users.
 ```
 
 apt install git
@@ -24,7 +24,7 @@ cd EerieSpammer
 pip install -r requirements.txt
 
 ```
-2. For Windows users.
+#### 2. For Windows users.
 
 Install git from  [here](https://gitforwindows.org/)
 
@@ -40,16 +40,16 @@ cd EerieSpammer
 
 pip install -r requirements.txt
 ```
-Congratulations you have successfully installed the now its time to use it.
-
+**_Congratulations!! you have successfully installed the now its time to use it._**
+___
 # Usage
  
- You can nevigate to EerieSpammeer and use the tool via following commands.
+ You can nevigate to EerieSpammeer and use the tool via following commands.(in both Linux and Windows.)
 
 ```
 cd EerieSpammer
 
- python3 Spammer.py
+python3 Spammer.py
  
 ```
  Now EerieSpammer will start Running . It will ask your requirements . Just enter the value and use it .
